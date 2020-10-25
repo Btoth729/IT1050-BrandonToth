@@ -1,0 +1,7 @@
+C:\Users\btoth\source\repos\Btoth729\IT1050-BrandonToth\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\btoth\source\repos\Btoth729\IT1050-BrandonToth\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\btoth\source\repos\Btoth729\IT1050-BrandonToth\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\btoth\source\repos\Btoth729\IT1050-BrandonToth\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\btoth\source\repos\Btoth729\IT1050-BrandonToth\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\btoth\source\repos\Btoth729\IT1050-BrandonToth\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\btoth\source\repos\Btoth729\IT1050-BrandonToth\Lab01\Lab01\obj\Debug\Lab01.pdb
